@@ -1,1 +1,0 @@
-/home/jornhansen/Downloads/pwned-passwords-sha1-ordered-by-hash-v8.txt
